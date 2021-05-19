@@ -1,0 +1,1 @@
+pygame.image.load(PIPE).convert_alpha()
